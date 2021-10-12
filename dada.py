@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def pasuti_tkreklus(skaits, apdruka, piegade):
   cenas = {"TEKSTS":5, "ZIME":7, "FOTO":20}
 
@@ -35,4 +21,4 @@ def pasuti_tkreklus(skaits, apdruka, piegade):
 
 
 
-print(pasuti_tkreklus(6,"TEKSTS",False))
+print(pasuti_tkreklus(6, "TEKSTS", False))
